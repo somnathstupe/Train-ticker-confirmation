@@ -1,10 +1,10 @@
-### Machine Learning Projects 
+Machine Learning Projects 
 
 The machine learning model predict whether the customers gets its railway ticket confirm or not 
 Based on the various features .
 
 
-### This in this projets we gathered public datasets (dataframe.csv)
+This in this projets we gathered public datasets (dataframe.csv)
 
 Its contain features and label for model traning :
 Contributing features:travelClass,bookingStatus,status1Day,status1Month,status1Week,status2Days
