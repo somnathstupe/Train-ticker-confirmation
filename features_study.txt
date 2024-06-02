@@ -1,15 +1,13 @@
 
 
-Ticket confirmation using machine learning 
-
-Datasets : Selected public Datasets for model building
+Railway Ticket confirmation using machine learning 
 
 
 Essentila Features: 
 
 1.PNR number : It is uniques number of every passeeger 
 2.Booking date : The date of booking is crucial features for predictive model.
-the date of booking and date of travel date correction may impact on the confirmation
+the date of booking and date of travel date correction may impact on the ticket confirmation
 
 3. Train information :
     Train number and Train name : train number can be used as features
@@ -25,16 +23,6 @@ the date of booking and date of travel date correction may impact on the confirm
 7. Waitlist position: the wailist position shows the confirmation movement .
 
 
-
-Features selection  for model training and testing 
-
-Independent features                             Dependent 
-1. travelClass                                    labels
-2. bookingStatus
-3. status1Day
-3. status1Month
-4. status1Week
-5. status2Days
 
 
 
