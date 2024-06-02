@@ -1,0 +1,40 @@
+
+
+Ticket confirmation using machine learning 
+
+Datasets : Selected public Datasets for model building
+
+
+Essentila Features: 
+
+1.PNR number : It is uniques number of every passeeger 
+2.Booking date : The date of booking is crucial features for predictive model.
+the date of booking and date of travel date correction may impact on the confirmation
+
+3. Train information :
+    Train number and Train name : train number can be used as features
+
+4. Travel date : Travel day is important factor for the analysis .
+                 It shows the information about the day such as week day or weekend
+
+
+5. Class : Different class category has different impact on confirmation 
+
+6. Quota : Booking quota such as general and taktal .
+
+7. Waitlist position: the wailist position shows the confirmation movement .
+
+
+
+Features selection  for model training and testing 
+
+Independent features                             Dependent 
+1. travelClass                                    labels
+2. bookingStatus
+3. status1Day
+3. status1Month
+4. status1Week
+5. status2Days
+
+
+
